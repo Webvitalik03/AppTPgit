@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppTP</string>
+    <string name="organization"><b>Академия ГПС МЧС России</b></string>
+    <string name="greetingsbutton"><b>Перейти на следующую страцницу</b></string>
+    <string name="secondactivitygreeting"><b>Приветствие!</b></string>
+    <string name="regbutton"><b>Вход</b></string>
+    <string name="authpagetext"><b>Авторизация</b></string>
+    <string name="regpagetext"><b>Регистрация</b></string>
+    <string name="pushregpagetext"><b>Зарегистрироваться</b></string>
+    <string name="passbutton"><b>Войти</b></string>
+    <string name="userlogin"><b>Логин</b></string>
+</resources>
